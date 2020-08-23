@@ -7,6 +7,7 @@ class Binary extends Component {
       inputValue: null,
       status: null,
       text: "",
+      result: null,
     };
   }
   handleChange = (e) => {
